@@ -41,6 +41,7 @@ console.log(ive);
 
 
 //템플릿 리터럴
+// 백틱(`)을 사용하여 문자열을 표현할 수 있다.
 // 1.new line -> \n
 // 2. tab -> \t
 // 3. backtick -> ``
